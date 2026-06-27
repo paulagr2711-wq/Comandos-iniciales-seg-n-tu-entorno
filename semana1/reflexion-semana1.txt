@@ -13,11 +13,3 @@ el sistema te muestra exactamente qué pasó, cuándo y de dónde viene el error
 En definitiva, tanto en la sociedad como a la hora de estar programando, depender de datos reales, tener buenas bases y trabajar de forma organizada es lo único que nos salva del caos. Construir una comunidad que
 funcione bien, ya sea un grupo de ciudadanos o un equipo de desarrollo, exige que todos aportemos información que de verdad sume y sea cien por ciento verificable.
 
-Pregunta 5 — Actividad práctica de algoritmia
-
-1. tener un tema definido de investigación.
-2. buscar fuentes confiables para corroborar que la información sea verídica.
-3. ver diferentes fuentes para ver puntos de vista distintivos para comparar la información.
-4. Contrastar la información encontrada con otra fuente confiable.
-5. leerlas y analizarlas para lograr comprenderlas y crear una opinión sobre ese tema en concreto.
-6. Compartir solo si la información es clara y confiable.
