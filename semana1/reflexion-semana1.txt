@@ -1,1 +1,23 @@
+Pregunta 4 — Reflexión de la semana
+¿Qué relación encuentras entre el uso responsable de la información en internet, la participación ciudadana y la organización del trabajo técnico con herramientas como Git?
 
+Respuesta:La verdad es que todo esto se conecta a través del orden y la transparencia de la información, que al final es la base de todo lo que hacemos hoy en día. El uso responsable 
+de los datos que consumimos es clave para que la participación ciudadana sea real. Pasa mucho que la gente se queda solo con el primer titular que le llega al celular o ve en redes sociales,
+y si debatimos o tomamos decisiones importantes basándonos en noticias falsas, básicamente estamos construyendo sobre la nada. Así no le aportamos nada bueno a la comunidad; al contrario, solo 
+ayudamos a que la desinformación crezca y genere polarización.
+
+Si miramos el lado técnico, herramientas como Git te obligan a tener un nivel de rigor que encaja perfecto con la solución a este problema. Cuando estás trabajando en un proyecto, no puedes simplemente
+lanzar un cambio y ya; Git deja un historial colaborativo donde cada línea de código, cada ajuste y cada aporte es totalmente rastreable. Ahí no hay pierde, porque si algo se rompe o deja de funcionar,
+el sistema te muestra exactamente qué pasó, cuándo y de dónde viene el error.
+
+En definitiva, tanto en la sociedad como a la hora de estar programando, depender de datos reales, tener buenas bases y trabajar de forma organizada es lo único que nos salva del caos. Construir una comunidad que
+funcione bien, ya sea un grupo de ciudadanos o un equipo de desarrollo, exige que todos aportemos información que de verdad sume y sea cien por ciento verificable.
+
+Pregunta 5 — Actividad práctica de algoritmia
+
+1. tener un tema definido de investigacion.
+2. buscar fuentes confiables para coroborar que la informacion sea veridica.
+3. ver diferentes fuentes para ver puntos de vista distintivos para comparar la informacion.
+4. Contrastar la informacion encontrada con otra fuente confiable.
+5. leerlas y analizarlas para lograr comprenderla y crear una opinion sobre ese tema en concreto.
+6. Compartir solo si la información es clara y confiable.
